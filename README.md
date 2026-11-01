@@ -203,6 +203,3 @@ TEST_PG_DSN="host=localhost dbname=socialpulse_test user=postgres password=postg
 | Spark / Kafka | Scale / streaming | only when volume demands it |
 
 **Cost:** R2 free tier (10 GB, no egress), PostgreSQL / Airflow / Power BI Desktop are free locally. At 10 k engagements/day the lake grows by a few MB per day.
-
-## License
-MIT
